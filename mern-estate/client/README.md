@@ -3,6 +3,7 @@
 2. Style - Tailwind CSS => https://tailwindcss.com/docs/guides/vite
 3. 
 4. React Router Dom => Routing => npm i react-router-dom
+5. React Icons => npm i react-icons
 
 
 
