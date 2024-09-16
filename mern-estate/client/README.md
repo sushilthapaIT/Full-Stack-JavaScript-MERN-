@@ -8,6 +8,7 @@
 7. Nodemon => npm i nodemon
 8. Database = MongoDB => npm i mongoose
 8. ENV => npm i dotenv
+10. Hashing => npm i bcryptjs
 
 To run Frontend => go to client / npm run dev
 To run Backend (node module) => go tot mern state / npm run dev
