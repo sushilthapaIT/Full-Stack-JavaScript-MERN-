@@ -1,0 +1,12 @@
+// var vs let vs const
+==> var is a functional scope where as let and const is block scope 
+
+so what do you mean by block and function scope
+
+// scope => only recognized inside something { }
+// global scope, function scope, block scope
+
+// data structure and algorithms
+==> need to learn
+1. Stacks
+==> 
